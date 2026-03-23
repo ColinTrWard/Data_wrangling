@@ -1,0 +1,2 @@
+https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS
+https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
